@@ -7,6 +7,13 @@ Este documento resume a implementacao do desafio tecnico com foco nos requisitos
 ## linguagem escolhida
 Python 
 
+## desafios encontrados
+- interpretacao de regras complexas de sentimento e influencia
+- implementacao de anomalias dependentes de analise de sentimento
+- garantia de reproducibilidade e determinismo em algoritmos com desempate
+- validacao de formatos de timestamp e regras de negocio especificas
+- balanceamento entre cobertura de testes e performance
+
 ## o que foi implementado
 
 - endpoint `POST /analyze-feed` em `main.py`
