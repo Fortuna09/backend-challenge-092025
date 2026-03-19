@@ -4,6 +4,9 @@
 
 Este documento resume a implementacao do desafio tecnico com foco nos requisitos do readme, cobertura de testes e pipeline de ci.
 
+## linguagem escolhida
+Python 
+
 ## o que foi implementado
 
 - endpoint `POST /analyze-feed` em `main.py`
