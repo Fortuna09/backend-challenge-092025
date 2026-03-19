@@ -14,6 +14,9 @@ Python
 - validacao de formatos de timestamp e regras de negocio especificas
 - balanceamento entre cobertura de testes e performance
 
+## tempo gasto
+Aproximadamente 12 horas, distribuidas entre entendimento de requisitos, implementacao, validacao com testes, ajustes de performance e configuracao de CI.
+
 ## o que foi implementado
 
 - endpoint `POST /analyze-feed` em `main.py`
