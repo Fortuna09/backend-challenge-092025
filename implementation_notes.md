@@ -74,4 +74,6 @@ detalhes:
 - tratamento de erros padronizado
 - ordenacoes com desempate estavel para garantir reproducibilidade
 
-Rafael Fortuna
+---
+
+#### Rafael Fortuna
